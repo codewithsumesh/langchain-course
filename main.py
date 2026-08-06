@@ -7,7 +7,7 @@ load_dotenv()  # copies .env api key (dict) to os.environ
 
 
 def main():
-    print("Hello from langchain-course!")
+    print("Hello from langchain-hello-world!")
     information = """
     Elon Reeve Musk (/ˈiːlɒn/ ⓘ EE-lon; born June 28, 1971) is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the only trillionaire in terms of US dollars in June 2026; as of July 23, 2026, Forbes estimates his net worth to be US$744 billion.
     """
